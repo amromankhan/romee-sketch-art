@@ -1,8 +1,8 @@
 <?php
 $host   = 'localhost';
-$dbname = 'romeesketchart';
-$user   = 'root';
-$pass   = 'password123';   // change if you chose a different password
+$dbname = 'dummydbname';
+$user   = 'dummyuser';
+$pass   = 'dummypass';   // change if you chose a different password
 
 try {
   $pdo = new PDO(
