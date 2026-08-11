@@ -1,5 +1,9 @@
+# Personal images
 images/sketches/*
 images/uploads/*
 *.jpg
 *.png
 *.jpeg
+
+# Sensitive files (optional)
+php/db.php
