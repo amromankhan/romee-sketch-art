@@ -1,0 +1,5 @@
+images/sketches/*
+images/uploads/*
+*.jpg
+*.png
+*.jpeg
